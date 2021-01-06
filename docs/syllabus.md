@@ -109,7 +109,7 @@ The final exam will be held during the exam period but it will be take-home in t
 - Do not distribute any course materials (slides, homework assignments, solutions, notes, etc.) without permission.
 - If you commit to working with a partner on an assignment, do your fair share of the work.
 - If you have a problem or complaint, let the instructor(s) know immediately. Maybe we can fix it!
-
+- This is a tough course. If you're struggling with something, I recommend trying to figure it out 10-30 min before asking for help. Spending to little time will hinder your learning, whereas spending hours may not resulting in efficient learning either.
 
 ## A note on COVID-19 from me
 

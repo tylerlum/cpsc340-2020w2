@@ -34,7 +34,7 @@ The list of tutorials can be found [here](https://courses.students.ubc.ca/cs/cou
 - Daniel Ajisafe
 - Ramya Basava
 - Daniele Reda
-- Rubia Reis Guerrs
+- Rubia Guerra
 - Amit Kadan
 - Kattie Sepehri
 - Joshua Tindall

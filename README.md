@@ -2,6 +2,10 @@
 
 Instructor: [Mike Gelbart](https://www.mikegelbart.com/)
 
+## Important documents
+
+- See [here](docs/) for the syllabus and other important documents. 
+
 ## Class schedule
 
 **Course structure**: This course will be delivered as a [flipped classroom](https://en.wikipedia.org/wiki/Flipped_classroom), which means you are expected to watch pre-recorded lecture videos _before_ class. These videos are from Mike's offering CPSC 340 in January-April 2018 available on YouTube [here](https://www.youtube.com/playlist?list=PLWmXHcz_53Q02ZLeAxigki1JZFfCO6M-b). Feel free to watch these faster, e.g. at 1.25x speed, if you'd like. While you're not expected to understand everything just from watching a video once, you're expected to come to class with a basic familiarity of what it's all about; we won't be starting again from scratch in class. During the lecture time itself, we will work reinforcing your understanding. For those who are unable to attend the synchronous lecture sessions, you would ideally watch both the 2018 videos _and_ the Zoom recordings of the synchronous sessions from this year. These Zoom recordings will be shorter since part of the time will be left for students to work on problems.

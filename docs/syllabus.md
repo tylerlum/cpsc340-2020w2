@@ -64,6 +64,20 @@ The grading scheme for the course is as follows:
 
 The tentative plan is for all assignments to be weighted equally. The instructor reserves the right to change this in case, for example, one of the assignments needs to be shortened or cut.
 
+### Course grading policies
+
+All grading concerns and challenges must be done through Gradescope.
+#### Grading concerns: time limit
+If you perceive a problem with your homework or exam grade, you have **one week** to raise a concern from the time that your grades were posted. After that, your grade is final.
+
+#### Reasonable grading concerns
+Grades are not perfect; some randomness in grading is normal, meaning that you'll generally get more than you deserve in some cases and less than you deserve in other cases. Thus, it is possible to exploit the system by consistently complaining when your grade is too low but not when it is too high. Unfortunately, this takes time away from the course staff which could have been spent on making the course better for everyone. Thus, in my view, students who overzealously contest grades are penalizing their classmates for personal gain.
+
+Sometimes serious grading errors are made, for example when a grader did not see your answer to a question or completely deviated from standard grading practices for some unknown reason. Such situations can be quite frustrating for students, and we want you to feel that the course is fair. In these cases, it makes sense for the student to bring the error to our attention.
+
+Balancing these two sides is difficult. In this course we will use the following policy: if a grade is challenged in a way that is deemed unreasonable, the student will receive a warning. This decision will be made by the instructor. If this happens a second time, the student will lose the privilege to challenge grades for the remainder of the course. Examples of unreasonable requests include extremely minor complaints (e.g. half a mark on an assignment) or repeatedly contesting the same issue once a decision has been reached. This policy applies to both assignments and exams.
+
+
 ## Software
 
 We will be using Python for this course because it is open source and widely used in machine learning and data science.  We will use Python 3 (in particular 3.7 or higher). We recommend the Anaconda Python distribution because it comes bundled with a bunch of useful packages (NumPy, SciPy, scikit-learn, Jupyter notebook) pre-installed. You can [download Anaconda from their website](https://www.anaconda.com/download/) for free.

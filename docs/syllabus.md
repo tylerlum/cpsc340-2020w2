@@ -21,7 +21,7 @@ We will roughly cover the following topics:
 
 **Tutorials** (choose one of these):
 
-The list of tutorials can be found [here](https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=340). See the ones starting with "T2". All tutorials will be on Zoom - see the link above.
+The list of tutorials can be found [here](https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=340). See the ones starting with "T2". All tutorials will be on Zoom - see the link above. You do not need to be registered for a tutorial to be registered in the course. If possible, please try to attend the tutorial you are registered for; however, it's also fine if you attend a different tutorial.
 
 **Office hours**: See the [calendar](https://www.cs.ubc.ca/~mgelbart/calendar.html).
 
@@ -33,9 +33,9 @@ The list of tutorials can be found [here](https://courses.students.ubc.ca/cs/cou
 
 - Daniel Ajisafe
 - Ramya Basava
-- Ali Behrouz
 - Daniele Reda
 - Rubia Reis Guerrs
+- Amit Kadan
 - Kattie Sepehri
 - Joshua Tindall
 - Meng Wang

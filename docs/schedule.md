@@ -27,7 +27,7 @@ Note: In the timetable below, the textbook codes (such as "AI:AMA") are defined 
 | | Fri 19 Feb  |    |  READING WEEK - NO CLASS | 
 | 16 | Mon 22 Feb | Regularization [slides](lectures/L16.pdf?raw=1) + [demo](lectures/L16demo.ipynb)  | [Stein's Paradox visualization](https://www.naftaliharris.com/blog/steinviz), ESL 3.4, ML:APP 7.5, AI:AMA 18.4 | 
 | 17 | Wed 24 Feb | [More regularization](lectures/L17.ipynb)  | 
-| 18  | Fri 26 Feb | (continuing Lecture 17)  | 
+| 18  | Fri 26 Feb | **MIDTERM**  | 
 | 19 | Mon 1 Mar | Linear classifiers: `predict` [slides](lectures/L19a.pdf?raw=1) + [notebook](lectures/L19b.ipynb) | [Support Vector Machines](https://en.wikipedia.org/wiki/Support_vector_machine), ESL 4.4, ML:APP 8.1-3, AI:AMA 18.9 |
 | 20 | Wed 3 Mar | [Linear classifiers: `fit`](lectures/L20.ipynb) | ESL 4.5 and 12.1-2, ML:APP 14.5 |
 | 21 | Fri 5 Mar | [Linear classifiers: multi-class](lectures/L21.pdf?raw=1)  | [Gmail Priority Inbox](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36955.pdf), ML:APP 8.3.7 and 9.3-5, ESL 4.4 |

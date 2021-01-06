@@ -8,4 +8,3 @@ Course documents:
 * [homework submission instructions (TO FIX)](docs/homework_instructions.md)
 * [textbooks and online resources](docs/resources.md)
 * [grading policies](docs/grades.md)
-* [how to ask for help](docs/asking_for_help.md)

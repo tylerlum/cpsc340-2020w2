@@ -96,7 +96,7 @@ If you use information from students outside your group or from online sources o
 
 ## Midterm
 
-The midterm exam will take place on October 22, 2020 during class time. The exam is open book, meaning you are allowed to consult course materials, the internet, etc. However, you are NOT allowed to communicate with anyone else in any way during the exam. The exam will be on Canvas and you will have 75 minutes to complete it.
+The midterm exam will take place on Friday, Feb 26, 2021 during class time. The exam is open book, meaning you are allowed to consult course materials, the internet, etc. However, you are NOT allowed to communicate with anyone else in any way during the exam. The exam will be on Canvas and you will have 50 minutes to complete it.
 
 **Missed midterm exam**. There is no makeup midterm exam. If you miss the midterm exam, or anticipate missing the midterm exam, please see the Academic concessions section above. In most cases, if you have missed the midterm exam for a justified reason, the weight of the midterm component of the course will be transferred to the final exam.
 

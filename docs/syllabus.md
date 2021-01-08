@@ -47,7 +47,8 @@ The list of tutorials can be found [here](https://courses.students.ubc.ca/cs/cou
  - Probability (one of STAT 200, STAT 203, STAT 241, STAT 251, STAT 302, MATH 302, MATH 318, or BIOL 300).
  - Multivariate calculus (one of MATH 200, 217, 226, 253, or 263).
 
-Undergraduate and graduate students from any department are welcome to take the class, provided that they satisfy the prerequisites. If you do not satisfy the exact prerequisites but would still like to enroll in the class, there are additional details available [here](https://www.cs.ubc.ca/~schmidtm/Courses/340_prereqs.pdf) and [here](https://www.cs.ubc.ca/students/grad/registration/grads-outside-cs).
+Undergraduate and graduate students from any department are welcome to take the class, provided that they satisfy the prerequisites. If you do not satisfy the exact prerequisites but would still like to enroll in the class, see [here](https://www.cs.ubc.ca/prerequisite-rules). For graduate students from outside the CS department, see [here](https://www.cs.ubc.ca/students/grad/registration/grads-outside-cs).
+
 
 **Auditing**: because the class/classroom is full, we may not have seats for auditors. If there is space and you would like to audit the course, please contact the instructor.
 

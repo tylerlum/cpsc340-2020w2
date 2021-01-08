@@ -49,7 +49,3 @@ Note: In the timetable below, the textbook codes (such as "AI:AMA") are defined 
 | 34 | Wed 12 Apr  |  Convolutional Neural Networks [slides](lectures/L35.pdf?raw=1) + [demo](lectures/L35demo.ipynb) |  |
 | 35 | Wed 14 Apr | [More CNNs, Conclusion](lectures/L36.pdf?raw=1) |  | | 
 
-## Assignment schedule
-
-TODO
-

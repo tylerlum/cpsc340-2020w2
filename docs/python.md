@@ -1,10 +1,10 @@
 # Programming environment: Python
 
-We will be using Python for this course because it is open source and widely used in machine learning and data science.  We will use Python 3 (in particular 3.5 or 3.6) because of some new features: dividing two integers returns a float by default, it has nice syntax like `x@y` for matrix multiplication, etc. **Python 2.7 is not supported in this course.**
+We will be using Python for this course because it is open source and widely used in machine learning and data science.  We will use Python 3, in particular 3.7 or higher.
 
 We recommend the Anaconda Python distribution because it comes bundled with a bunch of useful packages (NumPy, SciPy, scikit-learn, Jupyter notebook) pre-installed. You can [download Anaconda from their website](https://www.anaconda.com/download/) for free.
 
-If for some reason you don't want to use Anaconda, you can install the individual packages with `pip`. The annoying thing about Python is that the name of the package doesn't necessarily match the name in the code. For example if you see `import sklearn` in the code, you might (naively believing that we live in a sane world) try `pip install sklearn` but in fact it should be `pip install scikit-learn`. (Also, `pip` should be installing packages for Python 3 by default, but if you have both Python 2 and 3 installed with Python 2 as your default, you may need to use `pip3` in place of `pip`.)
+If for some reason you don't want to use Anaconda, you can install the individual packages with `pip`. The annoying thing about Python is that the name of the package doesn't necessarily match the name in the code. For example if you see `import sklearn` in the code, you might (naively believing that we live in a sane world) try `pip install sklearn` but in fact it should be `pip install scikit-learn`. 
 
 Here are some resources that might help you learn Python. Note that the course staff has not tried out these materials and so we aren't necessarily endorsing them.
 

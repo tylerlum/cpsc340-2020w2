@@ -1,5 +1,7 @@
 ## Assignment schedule
 
+Assignments are due every 2 weeks, with the exception of a 3-week gap between a3 and a4, where we have reading week and the midterm.  
+
 | #    | Topic | Deadline |
 |------|-------|--------|
 |  a1  | Prerequisites, EDA, decision trees       |  Wed Jan 20     |

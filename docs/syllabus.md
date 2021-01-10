@@ -81,9 +81,11 @@ Balancing these two sides is difficult. In this course we will use the following
 
 ## Software
 
-We will be using Python for this course because it is open source and widely used in machine learning and data science.  We will use Python 3 (in particular 3.7 or higher). We recommend the Anaconda Python distribution because it comes bundled with a bunch of useful packages (NumPy, SciPy, scikit-learn, Jupyter notebook) pre-installed. You can [download Anaconda from their website](https://www.anaconda.com/download/) for free.
+We will be using Python for this course because it is open source and widely used in machine learning and data science.  We will use Python 3 (in particular 3.7 or higher). We recommend the Anaconda Python distribution because it comes bundled with a bunch of useful packages (NumPy, SciPy, scikit-learn, Jupyter notebook) pre-installed. You can [download Anaconda from their website](https://www.anaconda.com/download/) for free. For some more info on Python, see [here](python.md).
 
 You will also need a way of compiling LaTeX documents. We recommend [Overleaf](https://www.overleaf.com/).
+
+
 ## Academic concessions
 
 UBC has a [policy on academic concession](https://senate.ubc.ca/sites/senate.ubc.ca/files/downloads/20190515_V_135_Academic_Concession-Approved.pdf) for cases in which a student may be unable to complete coursework. According to this policy, grounds for academic concession can be illness, conflicting responsibilities, or compassionate grounds. Examples of compassionate grounds, from the above policy, include “a traumatic event experienced by the student, a family member, or a close friend; an act of sexual assault or other sexual misconduct experienced by the student, a family member, or a close friend; a death in the family or of a close friend.” If you would like to request an academic concession, please fill out the [academic concession form](ConcessionForm.pdf) and email it to the instructor as soon as possible. You may be asked for further documentation. The instructor will evaluate the situation and make a decision on whether to grant the concession and, if so, how to proceed.

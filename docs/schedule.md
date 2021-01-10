@@ -22,12 +22,12 @@ Note: In the timetable below, the textbook codes (such as "AI:AMA") are defined 
 | 13 | Mon 8 Feb | Gradient descent | TBA |  [Gradient Descent](https://en.wikipedia.org/wiki/Gradient_descent), [Dimensional analysis of gradient descent](http://timvieira.github.io/blog/post/2016/05/27/dimensional-analysis-of-gradient-ascent/), ML:APP 7.4 |
 | 14 | Wed 10 Feb | Loss functions & change-of-basis | TBA  | [Fluid simulation paper](https://www.inf.ethz.ch/personal/ladickyl/fluid_sigasia15.pdf), [Fluid simulation video](https://www.youtube.com/watch?v=kGB7Wd9CudA), ESL 5.1, 6.3, and 6.7 |  
 | 15 | Fri 12 Feb | Feature selection and L0-regularization | TBA | ESL 3.3 |
-| | Mon 15 Feb  |    |  READING WEEK - NO CLASS | 
-| | Wed 17 Feb  |    |  READING WEEK - NO CLASS | 
-| | Fri 19 Feb  |    |  READING WEEK - NO CLASS | 
+| | Mon 15 Feb  |    | | READING WEEK - NO CLASS | 
+| | Wed 17 Feb  |    | | READING WEEK - NO CLASS | 
+| | Fri 19 Feb  |    | |  READING WEEK - NO CLASS | 
 | 16 | Mon 22 Feb | Regularization  | TBA  | [Stein's Paradox visualization](https://www.naftaliharris.com/blog/steinviz), ESL 3.4, ML:APP 7.5, AI:AMA 18.4 | 
 | 17 | Wed 24 Feb | More regularization  | TBA  | 
-|    | Fri 26 Feb | **MIDTERM**  | 
+|    | Fri 26 Feb | **MIDTERM**  | | | 
 | 18 | Mon 1 Mar | Linear classifiers: `predict`  | TBA | [Support Vector Machines](https://en.wikipedia.org/wiki/Support_vector_machine), ESL 4.4, ML:APP 8.1-3, AI:AMA 18.9 |
 | 19 | Wed 3 Mar | Linear classifiers: `fit`  | TBA | ESL 4.5 and 12.1-2, ML:APP 14.5 |
 | 20 | Fri 5 Mar | Linear classifiers: multi-class | TBA  | [Gmail Priority Inbox](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36955.pdf), ML:APP 8.3.7 and 9.3-5, ESL 4.4 |
@@ -42,8 +42,8 @@ Note: In the timetable below, the textbook codes (such as "AI:AMA") are defined 
 | 29 | Fri 26 Mar | Nonlinear dimensionality reduction  | TBA | [But what *is* a Neural Network?](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) (video, 19min at 1x speed, **highly recommended**), [Google Video](https://www.youtube.com/watch?v=bHvf7Tagt18), [Fortune Article](http://fortune.com/ai-artificial-intelligence-deep-machine-learning/), [great list of resources](https://github.com/ChristosChristofidis/awesome-deep-learning), ML:APP 16.5, ESL 11.1-4, AI: AMA 18.7  | 
 | 30 | Mon 29 Mar | Recommender systems  | TBA  | [What is backpropagation really doing?](https://www.youtube.com/watch?v=Ilg3gGewQ5U) (video, 14min at 1x speed), [Ali Rahimi @ NIPS 2017](https://youtu.be/Qi1Yry33TQE?t=3m) (video, 18min at 1x speed), ML:APP 28.3, ESL 11.5 |
 | 31 | Wed 31 Mar | Neural Networks  | TBA |  [Convolutional Neural Networks](https://en.wikipedia.org/wiki/Convolutional_neural_network), [AlexNet](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf), ML:APP 28.4, ESL 11.7 |
-|   | Fri 2 Apr | | HOLIDAY - NO CLASS | 
-|   | Mon 5 Apr | | HOLIDAY - NO CLASS | 
+|   | Fri 2 Apr | | | HOLIDAY - NO CLASS | 
+|   | Mon 5 Apr | | | HOLIDAY - NO CLASS | 
 | 32 | Wed 7 Apr  | Neural Networks: `fit`  | TBA |  [Artistic Style Transfer video](https://www.youtube.com/watch?v=Uxax5EKg0zA), [Deep Photo Style Transfer](https://github.com/luanfujun/deep-photo-styletransfer), [The Building Blocks of Interpretability (for CNNs)](https://distill.pub/2018/building-blocks/) | 
 | 33 | Fri 9 Apr  | More deep learning, Convolutions  | TBA |  |
 | 34 | Wed 12 Apr  |  Convolutional Neural Networks  | TBA |  |

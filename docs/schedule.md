@@ -26,13 +26,13 @@ Note: In the timetable below, the textbook codes (such as "AI:AMA") are defined 
 | | Wed 17 Feb  |    | | READING WEEK - NO CLASS | 
 | | Fri 19 Feb  |    | |  READING WEEK - NO CLASS | 
 | 16 | Mon 22 Feb | Regularization  | TBA  | [Stein's Paradox visualization](https://www.naftaliharris.com/blog/steinviz), ESL 3.4, ML:APP 7.5, AI:AMA 18.4 | new |
-| 17 | Wed 24 Feb | More regularization  | TBA  |  new |
+| 17 | Wed 24 Feb | More regularization  | TBA  |  |  new |
 |    | Fri 26 Feb | **MIDTERM**  | | |  |
 | 18 | Mon 1 Mar | Linear classifiers: `predict`  | TBA | [Support Vector Machines](https://en.wikipedia.org/wiki/Support_vector_machine), ESL 4.4, ML:APP 8.1-3, AI:AMA 18.9 | more depth |
 | 19 | Wed 3 Mar | Linear classifiers: `fit`  | TBA | ESL 4.5 and 12.1-2, ML:APP 14.5 | new |
 | 20 | Fri 5 Mar | Linear classifiers: multi-class | TBA  | [Gmail Priority Inbox](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36955.pdf), ML:APP 8.3.7 and 9.3-5, ESL 4.4 | more depth |
 | 21 | Mon 8 Mar | More nonlinear regression  | TBA | ESL 12.3, ML:APP 14.1-4 | more depth |
-| 22 | Wed 10 Mar | Kernel methods  | TBA  | [Stochastic Gradient](https://en.wikipedia.org/wiki/Stochastic_gradient_descent), ML:APP 8.5 |
+| 22 | Wed 10 Mar | Kernel methods  | TBA  | [Stochastic Gradient](https://en.wikipedia.org/wiki/Stochastic_gradient_descent), ML:APP 8.5 | new |
 | 23 | Fri 12 Mar | Maximum likelihood introduction  | TBA  | [Maximum Likelihood Estimation](https://en.wikipedia.org/wiki/Maximum_likelihood_estimation), [max and argmax notes](https://www.cs.ubc.ca/~schmidtm/Courses/Notes/max.pdf), ESL 3.4, ML:APP 13.3-4 (TODO: verify these book chapters) | new |
 | 24 | Mon 15 Mar | MLE, MAP, and ML  | TBA|  [Principal Component Analysis](https://en.wikipedia.org/wiki/Principal_component_analysis), ESL 14.5, IDM B.1, ML:APP 12.2 | new |
 | 25 | Wed 17 Mar | PCA: `predict` | TBA | [PCA Explained Visually](http://setosa.io/ev/principal-component-analysis), [SVD](https://en.wikipedia.org/wiki/Singular_value_decomposition), [Eigenfaces](https://en.wikipedia.org/wiki/Eigenface) | new |
@@ -47,5 +47,5 @@ Note: In the timetable below, the textbook codes (such as "AI:AMA") are defined 
 | 32 | Wed 7 Apr  | Neural Networks: `fit`  | TBA |  [Artistic Style Transfer video](https://www.youtube.com/watch?v=Uxax5EKg0zA), [Deep Photo Style Transfer](https://github.com/luanfujun/deep-photo-styletransfer), [The Building Blocks of Interpretability (for CNNs)](https://distill.pub/2018/building-blocks/) |  new |
 | 33 | Fri 9 Apr  | More deep learning, Convolutions  | TBA |  | new |
 | 34 | Wed 12 Apr  |  Convolutional Neural Networks  | TBA |  | new |
-| 35 | Wed 14 Apr | More CNNs, Conclusion  | TBA |  | |  n/a |
+| 35 | Wed 14 Apr | More CNNs, Conclusion  | TBA |  |  n/a |
 

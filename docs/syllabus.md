@@ -23,7 +23,7 @@ We will roughly cover the following topics:
 
 The list of tutorials can be found [here](https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=340). See the ones starting with "T2". All tutorials will be on Zoom - see the link above. You do not need to be registered for a tutorial to be registered in the course. If possible, please try to attend the tutorial you are registered for; however, it's also fine if you attend a different tutorial.
 
-**Office hours**: See the [calendar](https://www.cs.ubc.ca/~mgelbart/calendar.html).
+**Office hours**: See the [Zoom section] (https://canvas.ubc.ca/courses/58981/external_tools/15408).
 
 ## Teaching Team
 
